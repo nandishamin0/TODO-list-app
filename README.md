@@ -20,7 +20,7 @@ Installation
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/todo-app.git`
+`git clone https://github.com/your-username/todo-list-app.git`
 
 2. Open the project in Xcode:
 
