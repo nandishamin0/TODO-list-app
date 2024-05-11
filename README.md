@@ -56,8 +56,12 @@ Task Management:
 
 Swipe left on a task to reveal options for editing or deleting.
 
-Project done by Pranav Pansheriya (CWID: 885187419) and Kelly Nguyen (CWID: 886385673)
+Project done by Nandish Amin (CWID: 885205401), Vishal Panchal (CWID: 884467812), Vinay Shah (CWID: 885210930) and Him Patel (CWID: 885185546)
 
-Pranav's Contribution: AppDelegate, TextviewBorder, Alert, Controller folder, Cells folder, To-DoTests, EmptyState
+Nandish's Contribution: AppDelegate, TextviewBorder, Alert, Controller folder
 
-Kelly's Contribution: SceneDelegate, Extensions, Constant, CameraHelper, Controller folder, Cells folder, SortTypes
+Vishal's Contribution: SceneDelegate, Extensions, Constant
+
+Vinay's Contributions: Cells folder, To-DoTests, EmptyState
+
+Him's contributions: CameraHelper, Controller folder, Cells folder, SortTypes
